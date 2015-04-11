@@ -1,0 +1,9 @@
+H:\共有\visualstudio\project\VB_benchmark\VB_benchmark\bin\Debug\VB_benchmark.exe.config
+H:\共有\visualstudio\project\VB_benchmark\VB_benchmark\bin\Debug\VB_benchmark.exe
+H:\共有\visualstudio\project\VB_benchmark\VB_benchmark\bin\Debug\VB_benchmark.pdb
+H:\共有\visualstudio\project\VB_benchmark\VB_benchmark\bin\Debug\VB_benchmark.xml
+H:\共有\visualstudio\project\VB_benchmark\VB_benchmark\obj\Debug\VB_benchmark.Resources.resources
+H:\共有\visualstudio\project\VB_benchmark\VB_benchmark\obj\Debug\VB_benchmark.vbproj.GenerateResource.Cache
+H:\共有\visualstudio\project\VB_benchmark\VB_benchmark\obj\Debug\VB_benchmark.exe
+H:\共有\visualstudio\project\VB_benchmark\VB_benchmark\obj\Debug\VB_benchmark.xml
+H:\共有\visualstudio\project\VB_benchmark\VB_benchmark\obj\Debug\VB_benchmark.pdb
